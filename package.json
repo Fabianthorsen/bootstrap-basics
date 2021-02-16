@@ -1,16 +1,15 @@
 {
-  "name": "FE-UI-Frameworks-Tools",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This is a website for Ristorante Con Fusion",
+  "main": "index.html",
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Fabian Thorsen",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.3.0"
   }
 }
